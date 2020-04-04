@@ -1,7 +1,7 @@
 ---
 title: "Reproducible Research - Course Project 1"
-author: "Gabriel Verta"
-date: "March 6, 2016"
+author: "Aseem Patil"
+date: "April 4, 2020"
 output: html_document
 ---
 
